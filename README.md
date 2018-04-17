@@ -24,41 +24,41 @@ I wanted to explore this concept through a simulation where I would be able to p
 
 I quickly realized that the twitter API is extremely difficult to work with, and that many have tried and failed. However after several days of searching and altering code, I found a Unity project that accessed Twitter's API. After a little more work (another day or so) I got the Unity project to pull tweets, from a location specified by the user, and to display them on screen. 
 
-
+</br></br>
 
 
 <a href="https://michaelmilanodesign.tumblr.com/post/154239985364/wip-at-media-design-practices">
 <img width="536" alt="screen shot 2018-04-17 at 1 31 46 pm" src="https://user-images.githubusercontent.com/30060990/38894994-b39d1282-4243-11e8-92c3-0a84db64d615.png"></a>
 
-
+</br></br>
 
 Initial simulation with place holder tweets.
 
 
-
+</br></br>
 
 <a href="https://michaelmilanodesign.tumblr.com/post/154184838159/wip-at-media-design-practices"><img width="537" alt="screen shot 2018-04-17 at 1 33 57 pm" src="https://user-images.githubusercontent.com/30060990/38895151-1332f8b0-4244-11e8-90fe-8013ee1fb74c.png"></a>
 
-
+</br></br>
 
 Live Tweets being displayed in Unity
 
 
-
+</br></br>
 
 <a href="https://michaelmilanodesign.tumblr.com/post/154062673104/wip-at-media-design-practices">
 <img width="534" alt="screen shot 2018-04-17 at 1 36 05 pm" src="https://user-images.githubusercontent.com/30060990/38895251-5d34b7e6-4244-11e8-9c45-e9263fe210ff.png"></a>
 
-
+</br></br>
 
 further exploration of the initial simulation
 
-
+</br></br></br></br>
 
 
 But by this time in the project I realized that my simulation wasn’t so much a simulation as a infographic, and more importantly it wasn’t exploring the virality of fake news and its consequences/outcomes. I started to research virus simulations and found one that explored similar behaviors that I felt fake news portrayed, and began working on redesigning and altering the behaviors to further explore my concept. I explored a few different behavior through this simulation beyond. There was the obvious, where fake news and real news exists, and that in some cases one becomes superior to the other. But more interestingly the simulation revealed how fake news could become real news and that not every time does fake news defeat real news. (and sadly vice versa) 
 
-
+</br></br>
 
 
 <a href="https://michaelmilanodesign.tumblr.com/post/154323320154/wip"><img width="535" alt="screen shot 2018-04-17 at 1 37 31 pm" src="https://user-images.githubusercontent.com/30060990/38895295-85740766-4244-11e8-8435-279f06c54531.png"></a>
