@@ -25,4 +25,5 @@ I wanted to explore this concept through a simulation where I would be able to p
 I quickly realized that the twitter API is extremely difficult to work with, and that many have tried and failed. However after several days of searching and altering code, I found a Unity project that accessed Twitter's API. After a little more work (another day or so) I got the Unity project to pull tweets, from a location specified by the user, and to display them on screen. 
 
 
- <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/EUznrqlJoEH8StzZehFg8g/154239985364" data-did="1da57013f9c464a933a9a03df7467b8fef5f273a"><a href="https://michaelmilanodesign.tumblr.com/post/154239985364/wip-at-media-design-practices">https://michaelmilanodesign.tumblr.com/post/154239985364/wip-at-media-design-practices</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+<a href="https://michaelmilanodesign.tumblr.com/post/154239985364/wip-at-media-design-practices">
+<img width="536" alt="screen shot 2018-04-17 at 1 31 46 pm" src="https://user-images.githubusercontent.com/30060990/38894994-b39d1282-4243-11e8-92c3-0a84db64d615.png"></a>
