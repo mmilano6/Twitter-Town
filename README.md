@@ -30,7 +30,6 @@ I quickly realized that the twitter API is extremely difficult to work with, and
 <a href="https://michaelmilanodesign.tumblr.com/post/154239985364/wip-at-media-design-practices">
 <img width="536" alt="screen shot 2018-04-17 at 1 31 46 pm" src="https://user-images.githubusercontent.com/30060990/38894994-b39d1282-4243-11e8-92c3-0a84db64d615.png"></a>
 
-</br>
 
 Initial simulation with place holder tweets.
 
@@ -38,8 +37,6 @@ Initial simulation with place holder tweets.
 </br></br>
 
 <a href="https://michaelmilanodesign.tumblr.com/post/154184838159/wip-at-media-design-practices"><img width="537" alt="screen shot 2018-04-17 at 1 33 57 pm" src="https://user-images.githubusercontent.com/30060990/38895151-1332f8b0-4244-11e8-90fe-8013ee1fb74c.png"></a>
-
-</br>
 
 Live Tweets being displayed in Unity
 
@@ -49,7 +46,6 @@ Live Tweets being displayed in Unity
 <a href="https://michaelmilanodesign.tumblr.com/post/154062673104/wip-at-media-design-practices">
 <img width="534" alt="screen shot 2018-04-17 at 1 36 05 pm" src="https://user-images.githubusercontent.com/30060990/38895251-5d34b7e6-4244-11e8-9c45-e9263fe210ff.png"></a>
 
-</br>
 
 further exploration of the initial simulation
 
@@ -63,7 +59,6 @@ But by this time in the project I realized that my simulation wasn’t so much a
 
 <a href="https://michaelmilanodesign.tumblr.com/post/154323320154/wip"><img width="535" alt="screen shot 2018-04-17 at 1 37 31 pm" src="https://user-images.githubusercontent.com/30060990/38895295-85740766-4244-11e8-8435-279f06c54531.png"></a>
 
-</br>
 
 Initial game. me exploring how it was built 
 
@@ -73,7 +68,6 @@ Initial game. me exploring how it was built
 <a href="https://michaelmilanodesign.tumblr.com/post/154324860294/more-wip">
 <img width="536" alt="screen shot 2018-04-17 at 1 39 58 pm" src="https://user-images.githubusercontent.com/30060990/38895429-e3ebb65e-4244-11e8-96ae-0242f576684c.png"></a>
 
-</br>
 
 Initial game. me exploring how it was built 
 
@@ -82,7 +76,6 @@ Initial game. me exploring how it was built
 
  <a href="https://michaelmilanodesign.tumblr.com/post/154384087579/lol-morning-bugs-lol-wip-at-media-design"><img width="538" alt="screen shot 2018-04-17 at 1 41 53 pm" src="https://user-images.githubusercontent.com/30060990/38895533-26e3d180-4245-11e8-825f-240b9b74ab99.png"></a>
 
-</br>
 
 Redesigning the game, and encountering bugs and bad code.
 
@@ -92,16 +85,13 @@ Redesigning the game, and encountering bugs and bad code.
 <a href="https://michaelmilanodesign.tumblr.com/post/154358429564/wip-at-media-design-practices">https://michaelmilanodesign.tumblr.com/post/154358429564/wip-at-media-design-practices<img width="535" alt="screen shot 2018-04-17 at 1 43 06 pm" src="https://user-images.githubusercontent.com/30060990/38895598-4ff6828e-4245-11e8-88bd-2291de8ebe95.png"></a>
 
 
-</br>
-
 Perfecting the behaviors.
 
 </br></br>
 
 
 <a href="https://michaelmilanodesign.tumblr.com/post/154362221199/wip-at-media-design-practices"><img width="539" alt="screen shot 2018-04-17 at 1 44 28 pm" src="https://user-images.githubusercontent.com/30060990/38895683-879d8c1e-4245-11e8-9892-b99190668ae5.png"></a>
- 
-</br>
+
  
 Perfecting the behaviors.
 
@@ -110,8 +100,6 @@ Perfecting the behaviors.
 
 At this point the game had in many ways reached the limit that it could explore the concept, So I decided to start exploring what Twitter Town would look like. I started explore this by envisioning landmarks in Twitter Town as hashtags and sketching out how they would look within the restraints of an artboard that was the size of a iPhone. Below is what I came up with. 
 
-
-</br>
 
 <img width="587" alt="screen shot 2018-04-17 at 1 45 40 pm" src="https://user-images.githubusercontent.com/30060990/38895726-a61e96ba-4245-11e8-8d18-76bd2b618a17.png">
 
