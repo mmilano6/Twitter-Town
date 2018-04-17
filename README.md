@@ -23,3 +23,6 @@ These three articles really pointed out a near future tipping point, that in man
 I wanted to explore this concept through a simulation where I would be able to populate the simulation with actual live tweets. Twitter is a big factor in the virality of fake news, and the idea that a single tweet can spread so much false information made it seem like the perfect foundation for my simulation. 
 
 I quickly realized that the twitter API is extremely difficult to work with, and that many have tried and failed. However after several days of searching and altering code, I found a Unity project that accessed Twitter's API. After a little more work (another day or so) I got the Unity project to pull tweets, from a location specified by the user, and to display them on screen. 
+
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/EUznrqlJoEH8StzZehFg8g/154239985364" data-did="1da57013f9c464a933a9a03df7467b8fef5f273a"><a href="https://michaelmilanodesign.tumblr.com/post/154239985364/wip-at-media-design-practices">https://michaelmilanodesign.tumblr.com/post/154239985364/wip-at-media-design-practices</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
